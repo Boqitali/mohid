@@ -13,8 +13,13 @@
   margin-right: auto;
   padding-left: 16px;
   padding-right: 16px;
-  background: #000;
+}
 
+header, 
+main{
+  background: linear-gradient(to bottom right, #111, #000);
+  color: white;
+  width: 100%;
 }
 
 .container-lg {
