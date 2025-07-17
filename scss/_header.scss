@@ -59,7 +59,7 @@
 .hero {
   width: 100%;
   display: flex;
-  justify-content: space-around; // MARKAZROQ YAYILGAN HOLAT
+  justify-content: space-around; 
   align-items: center;
   padding: 4rem 2rem;
   gap: 3rem;
@@ -156,7 +156,7 @@
   }
 }
 
-/* 💻 Planshet (max-width: 1024px) */
+
 @media (max-width: 1024px) {
   .navbar {
     justify-content: space-between;
